@@ -1,4 +1,5 @@
 <?php
+//編集済
 for($x=1; $x<=100; $x++){
 	if($x % 15 === 0){
 	echo "fizzbuzz" . PHP_EOL;
